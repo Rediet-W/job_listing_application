@@ -24,10 +24,14 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+  margin-right: 4;
 }
 
 @layer utilities {
   .text-balance {
     text-wrap: balance;
   }
+}
+body{
+  background-color: white;
 }
