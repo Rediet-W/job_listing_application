@@ -2,7 +2,6 @@
 
 This project is a job listing application built with React and Next.js. It demonstrates the ability to create dynamic user interfaces, handle static data, and implement responsive designs using Tailwind CSS. The application features a job listing dashboard, job detail views, and various UI components such as job cards populated with dummy data.
 
-
 ## Features
 
 - **Job Card Component:** A React component that closely resembles the design provided in the task.
@@ -18,7 +17,8 @@ To get started with this project, follow the steps below:
 
    ```bash
    git clone https://github.com/Rediet-W/Web_Track.git
-Navigate to the project directory:
+   Navigate to the project directory:
+   ```
 
 cd Web_Track
 Install dependencies:
@@ -30,16 +30,19 @@ npm run dev
 Open your browser and go to http://localhost:3000 to view the application.```
 
 ## Usage
+
 The main job listing page is accessible at /jobs, where you can view the list of all job opportunities.
 Click on any job title to view the detailed job description.
 
 ## Screenshots
 
-###Job Listing Dashboard:
+### Job Listing Dashboard:
+
 ![Screenshot](public/jobs_list.png)
 
 This page displays a list of all job opportunities available.
-###Job Detail Page:
+
+### Job Detail Page:
 
 ![Screenshot](public/jobs_detail.png)
 Provides a detailed view of a selected job, including its description, responsibilities, location, and required skills.
